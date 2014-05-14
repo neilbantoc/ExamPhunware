@@ -4,13 +4,12 @@ PhunHomework
 Screenshots
 
 ![Alt text](/screenshots/device-2014-05-15-031344.png?raw=true "")
-![Alt text](/screenshots/device-2014-05-15-031344.png?raw=true "")![Alt text](/screenshots/device-2014-05-15-031344.png?raw=true "")
-device-2014-05-15-031443.png
-device-2014-05-15-031457.png
-device-2014-05-15-031511.png
-device-2014-05-15-031550.png
-device-2014-05-15-031557.png
-device-2014-05-15-031627.png
+![Alt text](/screenshots/device-2014-05-15-031443.png?raw=true "")
+![Alt text](/screenshots/device-2014-05-15-031457.png?raw=true "")
+![Alt text](/screenshots/device-2014-05-15-031511.png?raw=true "")
+![Alt text](/screenshots/device-2014-05-15-031550.png?raw=true "")
+![Alt text](/screenshots/device-2014-05-15-031557.png?raw=true "")
+![Alt text](/screenshots/device-2014-05-15-031627.png?raw=true "")
 
 Highlights:
 
